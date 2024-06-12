@@ -1,0 +1,6 @@
+[
+    { "id": "1", "type": "invoice", "amount": "125.00", "currency": "USD" },
+    { "id": "2", "type": "payment", "amount": "85.00", "currency": "EUR" },
+    { "id": "3", "type": "invoice", "amount": "200.00", "currency": "JPY" }
+  ]
+  
